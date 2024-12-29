@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Ola! Bem vindo ao meu GitHub ☕️
 * 👨🏻‍💻 *Fullstack Developer Engineer*
-* ❤️ **_Apaixonado por Java, Ruby, Phyton e Angular_**
+* ❤️ **_Apaixonado por Flutter e Angular_**
 * 👨🏻‍🎓 *Graduado em Física*
 * 📚 *Consumidor de cursos*
 
